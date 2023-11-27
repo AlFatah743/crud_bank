@@ -7,7 +7,7 @@
 <body>
 <div class="container">
     <br>
-    <h4>CRUD Sederhana dengan PHP dan Bootstrap</h4>
+    <h4>CRUD menggunakan PHP dan Bootstrap</h4>
 <?php
 
     include "koneksi.php";
